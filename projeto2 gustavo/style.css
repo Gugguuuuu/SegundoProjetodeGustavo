@@ -1,0 +1,32 @@
+body{
+    background:linear-gradient(90deg, rgb(186, 1, 253) 0%,rgb(255, 238, 0) 100%);
+}
+h1{
+    text-align: center;
+    scale: 5;
+    margin-top: 100px;
+}
+
+.container{
+    display :flex;
+    gap: 50px;
+    justify-content: center;
+}
+#item1{
+    margin-top: 400px;
+
+    
+}
+#item2{
+    margin-top: 400px;
+    
+}
+#item3{
+    margin-top: 400px;
+    
+}
+#titulo{
+    margin-top: 200px;
+    text-shadow: 4px 4px 4px rgb(0, 0, 0); 
+}
+
